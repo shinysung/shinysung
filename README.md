@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Sung,%20Shine,%20Sung&animation=twinkling>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Sung,%20Shine,%20Sung&animation=twinkling />
 
 
 
