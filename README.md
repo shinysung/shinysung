@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Sung,%20Shine,%20Sung&animation=twinkling)
+![js](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 
 <!--
 **shinysung/shinysung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
